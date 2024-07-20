@@ -1,5 +1,5 @@
 This project focuses on fitting a sinusoid to a set of given measurements taken over time. Specifically, we have 𝑚
-m measurements of a process at m points in time. The measurement times are denoted by t1, t2, ..., tm, and the corresponding measurement values are y1, y2, ..., ym. In the example depicted in Figure 9.2, we have 21 measurements where t1 equals 0 and t21 equals 10.
+m measurements of a process at m points in time. The measurement times are denoted by t1, t2, ..., tm, and the corresponding measurement values are y1, y2, ..., ym. In the example depicted in Figure 9.2 of the book "Introduction to optimization" by Edwin Chong 4e, we have 21 measurements where t1 equals 0 and t21 equals 10.
 The sinusoidal function we aim to fit to the data is given by:
 y = A * sin(ω * t + φ)
 where A is the amplitude, ω is the angular frequency, and φ is the phase shift.
